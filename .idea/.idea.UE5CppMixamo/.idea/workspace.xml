@@ -12,10 +12,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0783c9fd-46f9-4aac-9413-6ccbd220987c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.UE5CppMixamo/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.UE5CppMixamo/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.UE5CppMixamo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.UE5CppMixamo/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UE5CppMixamo.uproject" beforeDir="false" afterPath="$PROJECT_DIR$/UE5CppMixamo.uproject" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/FirstPerson/Blueprints/ABP_Remy.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/FirstPerson/Blueprints/ABP_Remy.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/FirstPerson/Blueprints/BP_RemyCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/FirstPerson/Blueprints/BP_RemyCharacter.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/UE5CppMixamo/Private/RemyCharacter.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/UE5CppMixamo/Private/RemyCharacter.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/UE5CppMixamo/Private/RemyCharacter.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/UE5CppMixamo/Private/RemyCharacter.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +26,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -485,13 +487,14 @@
       <option name="presentableId" value="Default" />
       <updated>1730947838445</updated>
       <workItem from="1730947845001" duration="60000" />
-      <workItem from="1730949706844" duration="761000" />
+      <workItem from="1730949706844" duration="1508000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="VcsManagerConfiguration">
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="false" />
